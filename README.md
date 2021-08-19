@@ -1,6 +1,6 @@
 ### Hello!👋 I am Alessandro.
-##
-📖💻- I’m currently learning JavaScript, CSS,HTML and others.
+
+📖💻- I’m currently learning JavaScript, CSS, HTML and others.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="alebarreto1-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -8,7 +8,7 @@
   <img align="center" alt="alebarreto1-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-
+## 
 
 ![Snake animation](https://github.com/alebarreto1/alebarreto1/blob/output/github-contribution-grid-snake.svg)
 <div>
