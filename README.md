@@ -11,8 +11,8 @@
 ![Snake animation](https://github.com/alebarreto1/alebarreto1/blob/output/github-contribution-grid-snake.svg)
 <div>
   <a href="https://github.com/alebarreto1">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alebarreto1&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebarreto1&layout=compact&langs_count=7&theme=white"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alebarreto1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebarreto1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div> 
   <a href = "mailto:alessandrogongora@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?" target="_blank"></a>
