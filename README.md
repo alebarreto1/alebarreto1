@@ -1,6 +1,6 @@
 ### Hello!👋 I am Alessandro.
 
-📖💻- I’m currently learning JavaScript, CSS, HTML and others.
+📖💻- <strong>I’m currently learning JavaScript, CSS, HTML and others.</strong>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="alebarreto1-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
