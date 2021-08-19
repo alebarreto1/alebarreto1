@@ -1,6 +1,6 @@
 ### Hello!👋 I am Alessandro.
 
-📖💻- <strong>I’m currently learning JavaScript, CSS, HTML and others.</strong>
+##
 
 ![Snake animation](https://github.com/alebarreto1/alebarreto1/blob/output/github-contribution-grid-snake.svg)
 <div>
