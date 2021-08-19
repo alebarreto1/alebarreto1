@@ -1,6 +1,17 @@
-### Hello!👋 I am Alessandro.
+### Hi there!👋 
 
-##
+<strong>I'm Alessandro.</strong>
+
+- I live in Brazil.
+- I have been learning more about JavaScritpt, HTML, CSS and others.  
+
+<strong>Conect with me:</strong>
+
+<div> 
+  <a href = "mailto:alessandrogongora@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?" target="_blank"></a>
+  <a href="https://discord.com/channels/@alessandrogongora@hotmail.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the- badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/alessandro_rodrigo89/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 ![Snake animation](https://github.com/alebarreto1/alebarreto1/blob/output/github-contribution-grid-snake.svg)
 <div>
