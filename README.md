@@ -19,8 +19,8 @@
 ##
 <div>
   <a href="https://github.com/alebarreto1">
-  <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebarreto1&layout=compact&langs_count=7&theme=dark"/>
-  <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=alebarreto1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebarreto1&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=alebarreto1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="alebarreto1-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
