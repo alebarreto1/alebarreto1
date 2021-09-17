@@ -3,7 +3,7 @@
 ##
 
 - I live in Brazil.
-- I have been learning more about JavaScritpt, HTML, CSS and others.  
+- At the present time, I have been learning more about CRUD.  
 ##
 ### Conect with me:
 <div> 
