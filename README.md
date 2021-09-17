@@ -3,7 +3,7 @@
 ##
 
 - I live in Brazil.
-- At the present time, I have been learning more about CRUD.  
+- I have been learning more about CRUD.  
 ##
 ### Conect with me:
 <div> 
