@@ -3,8 +3,8 @@
 ##
 
 - I live in Brazil.
-- I have been learning more about CRUD.  
-- Youtube: https://www.youtube.com/channel/UCXFe660MYKZ9kcVi379zPzw
+- I have been learning more about PostGreSQL, NodeJS and ReactJS.  
+
 ##
 ### Conect with me:
 <div> 
