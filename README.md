@@ -3,7 +3,7 @@
 ##
 
 - I live in Brazil.
-- I have been learning more about PostGreSQL, NodeJS and ReactJS.  
+- I have been learning more about PostGreSQL, Node JS and React JS.  
 
 ##
 ### Conect with me:
