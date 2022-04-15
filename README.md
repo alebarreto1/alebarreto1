@@ -8,7 +8,7 @@
 ##
 ### Conect with me:
 <div> 
-  <a href="https://www.linkedin.com/in/alessandrogongora/" target="_blank"><img height="30" width="70" src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-badge&logo-linkedin&logoColor-white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alessandrogongora/" target="_blank"><img height="30" width="80" src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-badge&logo-linkedin&logoColor-white" target="_blank"></a>
 </div>
 
 ##
@@ -22,7 +22,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="alebarreto1-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="alebarreto1-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img align="center" alt="alebarreto1-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>  
   
  
