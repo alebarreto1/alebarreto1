@@ -3,7 +3,7 @@
 ##
 
 - I live in Brazil.
-- I have been learning more about NodeJS.  
+- Studying JavaScript for Back-End using NodeJS.  
 
 ##
 ### Conect with me:
@@ -21,7 +21,8 @@
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=alebarreto1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="alebarreto1-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="alebarreto1-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="alebarreto1-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>  
   
  
