@@ -3,7 +3,7 @@
 ##
 
 - I live in Brazil.
-- Studying JavaScript for Back-End using NodeJS.  
+- I'm currently studying JavaScript for Back-End and using NodeJS.  
 
 ##
 ### Conect with me:
