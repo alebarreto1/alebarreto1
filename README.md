@@ -3,7 +3,7 @@
 ##
 
 - I live in Brazil.
-- I'm currently studying NodeJS.  
+- I'm currently studying about MERN Stack.  
 
 ##
 ### Conect with me:
